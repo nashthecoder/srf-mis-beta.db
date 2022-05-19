@@ -88,6 +88,71 @@
       "clinic": "Kangemi",
       "team": "Heideimarie Primary",
       "id": 9
+    },
+    {
+      "date": "12/3/2022",
+      "clinic": "Kangemi",
+      "team": "Dr Kraph Primary",
+      "id": 10
+    },
+    {
+      "date": "12/3/2022",
+      "clinic": "Kangemi",
+      "team": "Dr Kraph Primary",
+      "id": 11
+    },
+    {
+      "date": "12/3/2022",
+      "clinic": "Kangemi",
+      "team": "Dr Kraph Primary",
+      "id": 12
+    },
+    {
+      "date": "12/8/2022",
+      "clinic": "Ngewe",
+      "team": "Junior",
+      "id": 13
+    },
+    {
+      "date": "12/12/22",
+      "clinic": "Mathare",
+      "team": "Harambee Primary",
+      "id": 14
+    },
+    {
+      "date": "12/12/22",
+      "clinic": "Mathare",
+      "team": "Harambee Primary",
+      "id": 15
+    },
+    {
+      "date": "12/12/22",
+      "clinic": "Mathare",
+      "team": "Harambee Primary",
+      "id": 16
+    },
+    {
+      "date": "12/12/22",
+      "clinic": "Mathare",
+      "team": "Mathare North Primary",
+      "id": 17
+    },
+    {
+      "name": "chepkoeh",
+      "dateOfBirth": "12/12/22",
+      "gender": "female",
+      "phone1": "0722556677",
+      "caregiverName": "toweett",
+      "relationship": "Guardian",
+      "clinic": "Mathare",
+      "team": "Under 12s",
+      "id": 18
+    },
+    {
+      "date": "12/11/22",
+      "clinic": "Kibera",
+      "team": "Raila Primary",
+      "id": 19
     }
   ]
 }
